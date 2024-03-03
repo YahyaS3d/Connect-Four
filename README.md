@@ -36,7 +36,7 @@ No installation is required. Ensure you have Python and tkinter installed on you
 
 ## Customization
 
-You can customize the game settings by modifying the `ConnectFour` class parameters in `connect_four_gui.py`. This includes changing the board dimensions and the starting player.
+You can customize the game settings by modifying the `ConnectFour` class parameters in `main.py`. This includes changing the board dimensions and the starting player.
 
 ## AI and Game Mechanics
 
